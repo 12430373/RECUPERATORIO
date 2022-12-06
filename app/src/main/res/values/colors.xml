@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2196f3</color>
+    <color name="colorPrimaryDark">#ffebee</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="editText_textColorHint">#FFFFFF</color>
+    <color name="editText_textColorPrimary">#FFFFFF</color>
+    <color name="editText_colorControlNormal">#FFFFFF</color>
+    <color name="editText_colorControlSize">#FFFFFF</color>
+    <color name="editText_colorControlActivated">#FFFFFF</color>
+
+    <color name="textView_textoColor">#FFFFFF</color>
+    <color name="button_textColor">#0000FF</color>
+</resources>

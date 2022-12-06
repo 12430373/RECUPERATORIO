@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Recuperatorio</string>
+    <string name="nombre_usuario">Username or email</string>
+    <string name="contraseña">Password</string>
+    <string name="Button_text">LOGIN</string>
+    <string name="no_tienes_cuenta">" ¿New user? "</string>
+    <string name="crea_una_aqui"> Sign up </string>
+</resources>
