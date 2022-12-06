@@ -21,12 +21,11 @@
             <ImageView
                 android:layout_width="wrap_content"
                 android:layout_height="@dimen/imageView_layoutHeigth"
-                android:src="@drawable/logo" />
+                android:src="@drawable/android_logo" />
 
 
         </RelativeLayout>
         <LinearLayout
-            android:textColor="@color/textView_textoColor"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:orientation="vertical"
@@ -37,7 +36,7 @@
             <com.google.android.material.textfield.TextInputLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:theme="@style/EditTextWhite.">
+                android:theme="@style/EditTextWhite">
                 <com.google.android.material.textfield.TextInputEditText
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
@@ -49,7 +48,7 @@
             <com.google.android.material.textfield.TextInputLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:theme="@style/EditTextWhite."
+                android:theme="@style/EditTextWhite"
                 android:layout_marginTop="@dimen/login_marginTop">
                 <com.google.android.material.textfield.TextInputEditText
                     android:layout_width="match_parent"
@@ -71,7 +70,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="@dimen/login_marginTop"
-                android:text="@string/Button_text"
+                android:text="@string/Button_F"
                 android:theme="@style/RaiseButtonDark"/>
 
             <Button
@@ -79,7 +78,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="@dimen/login_marginTop"
-                android:text="@string/Button_text"
+                android:text="@string/Button"
                 android:theme="@style/RaiseButtonDark" />
 
             <RelativeLayout
